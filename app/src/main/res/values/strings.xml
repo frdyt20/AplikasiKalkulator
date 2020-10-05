@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Aplikasi Kalkulator</string>
+    <string name="hint1">Masukan angka pertama</string>
+    <string name="hint2">Masukan angka kedua</string>
+    <string name="title">MASUKAN DUA ANGKA!</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="times">*</string>
+    <string name="divide">/</string>
+    <string name="delete">Bersihkan</string>
+    <string name="hasil">HASIL</string>
+    <string name="result">0</string>
+</resources>
